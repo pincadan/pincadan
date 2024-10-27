@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 PHP Full-Stack Developer
 ------------------------
 
-PHP Full-Stack Developer with a passion for building efficient web applications. Proficient in Laravel, Vue.js, and MySQL, specializing in both backend development and frontend interfaces. Focused on delivering clean, scalable code and exceptional user experiences.
+PHP Full-Stack Developer with a passion for building efficient web applications. Proficient in Laravel and MySQL, specializing in both backend development and frontend interfaces. Focused on delivering clean, scalable code and exceptional user experiences.
 
 * 🌍  I'm based in Blaj
 * 🖥️  See my portfolio at [pincadan.com](http://pincadan.com)
