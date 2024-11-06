@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel Pinca
 ====================================================================================================================================
 
-OSINT Analyst
+Open-Source Intelligence Analyst (OSINT)
 -------------
 
 Cybersecurity-focused OSINT Analyst specializing in identifying digital threats, vulnerabilities, and analyzing threat actors through open-source intelligence gathering. Dedicated to enhancing organizational security posture through comprehensive intelligence collection and analysis.
