@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel Pinca
 ====================================================================================================================================
 
-Cybersecurity Engineer
----------------------
+🔒 Cybersecurity Analyst | Penetration Testing & OSINT Expert | Protecting Against Cyber Threats 🛡️
+----------------------------------------------------------------------------------------------------
 
-Cybersecurity Engineer specializing in penetration testing and Open-Source Intelligence (OSINT). Driven by a passion for uncovering security vulnerabilities and strengthening organizational defenses through methodical analysis and creative problem-solving.
+I am a Cybersecurity Analyst specializing in Penetration Testing and Open Source Intelligence (OSINT). My mission is to identify and mitigate vulnerabilities by thinking like an attacker, uncovering threats, and building stronger defenses for organizations.
 
 * 🌍  I'm based in Blaj
 * 🖥️  See my portfolio at [pincadan.com](http://pincadan.com)
