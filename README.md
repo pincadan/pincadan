@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel Pinca
 ====================================================================================================================================
 
-🔒 Cybersecurity Analyst | Penetration Testing & OSINT 🛡️
+ 🔒 Cybersecurity Analyst | Penetration Testing & OSINT Specialist🛡️
 ----------------------------------------------------------------------------------------------------
 
 I am a Cybersecurity Analyst specializing in Penetration Testing and Open Source Intelligence (OSINT). My mission is to identify and mitigate vulnerabilities by thinking like an attacker, uncovering threats, and building stronger defenses for organizations.
