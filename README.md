@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel Pinca
 ====================================================================================================================================
 
-🔐 Dedicated Cybersecurity Professional specializing in Penetration Testing and Open-Source Intelligence (OSINT), committed to identifying and exploiting security vulnerabilities to strengthen organizational defenses.
+🔒 Penetration Tester | Ethical Hacker | Cybersecurity Specialist
 
 * 🌍  I'm based in Blaj
 * 🖥️  See my portfolio at [pincadan.com](http://pincadan.com)
