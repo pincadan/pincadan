@@ -2,6 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 
 🔒 Penetration Tester | Ethical Hacker | Cybersecurity Specialist
+
 Passionate about identifying vulnerabilities and strengthening organizational defenses through ethical hacking and penetration testing. With a proven track record of simulating real-world cyberattacks, I help organizations uncover security gaps before malicious actors can exploit them.
 
 * 🌍  I'm based in Blaj
